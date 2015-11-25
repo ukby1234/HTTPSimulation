@@ -1,6 +1,6 @@
-package dig.isi.edu.simulation;
+package edu.isi.simulation;
 
-import dig.isi.edu.simulation.worker.ClientWorker;
+import edu.isi.simulation.worker.ClientWorker;
 import org.apache.commons.cli.*;
 import org.apache.http.impl.nio.client.CloseableHttpAsyncClient;
 import org.apache.http.impl.nio.client.HttpAsyncClients;

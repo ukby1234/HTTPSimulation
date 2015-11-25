@@ -1,4 +1,4 @@
-package dig.isi.edu.simulation.worker;
+package edu.isi.simulation.worker;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpGet;

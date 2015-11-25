@@ -1,4 +1,4 @@
-package dig.isi.edu.simulation.worker;
+package edu.isi.simulation.worker;
 
 import java.io.PrintWriter;
 import java.util.Collections;
