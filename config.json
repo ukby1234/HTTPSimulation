@@ -1,0 +1,12 @@
+{
+	"clients": [
+		{
+			"queries": ["http://www.google.com", "http://www.facebook.com"]
+		},
+		{
+			"queries": ["http://www.yahoo.com"]
+		}
+	],
+	"timeout": 30,
+	"rate": 0.33
+}
